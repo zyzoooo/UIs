@@ -1,3 +1,5 @@
+-- ONLY ui, no features
+
 local library = {
 	flags = {}, 
 	items = {}
